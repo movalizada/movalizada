@@ -55,7 +55,7 @@
 
 ### 📊 LeetCode Stats
 
-(![LeetCode Stats](https://leetcode-stats.vercel.app/?username=movalizada&theme=dark)
+![LeetCode Stats](https://leetcode-stats.vercel.app/?username=movalizada&theme=dark)
 
 ---
 
