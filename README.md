@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @movalizada
-- 👀 I’m interested in Bioinformatics 
-- 🌱 I’m currently learning Data Science and AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi, I'm Mahammad 👋! </h1>
+<p align="center">
+  <i>Data enthusiast | AI & Bioinformatics explorer | Turning ideas into code</i>
+</p>
 
-<!---
-movalizada/movalizada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 💻 About Me
+
+- 🎓 Computer Science student at Khazar University
+- 💡 Hands-on experience in Data Science projects
+- 🧬 Strong interested in Bioinformatics
+- 🔬 Currently working on genomic datasets and searching diseases
+
+---
+
+### ## ⚙️ Tech Stack
+
+### 💻 Programming Languages
+[Python](https://www.python.org/) | [C](https://en.cppreference.com/w/c) | [PHP](https://www.php.net/) | [Java](https://www.java.com/) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
