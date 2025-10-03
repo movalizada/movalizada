@@ -40,7 +40,7 @@
 ### 📫 Let's Connect
 
 - 📩 Email: [movalizada@gmail.com](mailto:movallizada@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mahammad-valizada-699159267/)  
+- 💼 Mahammad Valizada : [LinkedIn](https://www.linkedin.com/in/mahammad-valizada-699159267/)  
 
 ---
 
