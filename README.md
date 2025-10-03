@@ -55,7 +55,7 @@
 
 ### 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/?username=movalizada&theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/movalizada?theme=dark&font=Ubuntu&ext=heatmap)
 
 ---
 
